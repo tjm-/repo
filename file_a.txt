@@ -1,0 +1,8 @@
+this is the initial file a
+line 2
+line 3
+
+updated file a
+line 4
+line 5
+
