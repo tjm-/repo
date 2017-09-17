@@ -1,2 +1,5 @@
 initial file b
 line a
+master b
+line 7
+
